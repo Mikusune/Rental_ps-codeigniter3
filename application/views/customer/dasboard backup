@@ -1,0 +1,30 @@
+<section id="slideslow-bg">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                        <div class="display-table">
+                        <div class="carousel-item active">
+                        <div class="row">
+                          <div class="col-md-6">
+                            <br><br><br><br><br><br><br><br>
+                            <h1 class="video_text">Welcome to </h1>
+                            <h1 class="controller_text">Rental PlayStation </h1>
+                            <p class="banner_text"> Mulai Petualangan Gaming Anda dengan Layanan Sewa PlayStation - Hadirkan Konsol dan Game Terbaru ke Rumah Anda, Memberikan Kesenangan yang Tak Tertandingi untuk Semua Jenis Gamer</p>
+                            <button class="learn-more" href="<?php echo base_url('customer/data_ps') ?>">
+                              <span class="circle" aria-hidden="true">
+                              <span class="icon arrow"></span>
+                              </span>
+                              <span class="button-text">Sewa Disini</span>
+                            </button>
+                          </div>
+                          <div class="col-md-6">
+                          <br>
+                            <div class="image_1"><img src="<?php echo base_url() ?>assets/assets_shop/img/ps4.png"></div>
+                        </div>
+                      </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
